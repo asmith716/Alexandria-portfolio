@@ -1,1 +1,1 @@
-Projects folder (images, screenshots, icons)
+This folder holds project pages and case studie.
