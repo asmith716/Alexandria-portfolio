@@ -1,1 +1,1 @@
-Assets folder(images,screenshots, icons).
+This folder holds images, screenshots, icons, and other media.
